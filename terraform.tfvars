@@ -1,0 +1,5 @@
+image_id      = "ami-01cd4de4363ab6ee8"
+instance_type = "t2.micro"
+key_name      = "farid"
+machine_name  = "outline"
+createdby     = "Terraform"
